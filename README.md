@@ -1,12 +1,12 @@
 # Escáner de Puertos con Python
 
 ## Índice 📖
-1. [Intro](https://github.com/KamVilchis/python-port-scanner/edit/main/README.md#1-intro-)
-2. [Qué construí](https://github.com/KamVilchis/python-port-scanner/edit/main/README.md#2-qu%C3%A9-constru%C3%AD-)
-3. [Objetivo del proyecto](https://github.com/KamVilchis/python-port-scanner/edit/main/README.md#3-objetivo-del-proyecto-)
-4. [Cómo ejecutarlo](https://github.com/KamVilchis/python-port-scanner/edit/main/README.md#4-c%C3%B3mo-ejecutarlo-)
-5. [Ejemplo de salida](https://github.com/KamVilchis/python-port-scanner/edit/main/README.md#5-ejemplo-de-salida-)
-6. [Nota importante](https://github.com/KamVilchis/python-port-scanner/edit/main/README.md#%EF%B8%8F-nota-importante)
+1. [Intro](https://github.com/KamVilchis/python-port-scanner#1-intro-)
+2. [Qué construí](https://github.com/KamVilchis/python-port-scanner#2-qu%C3%A9-constru%C3%AD-)
+3. [Objetivo del proyecto](https://github.com/KamVilchis/python-port-scanner#3-objetivo-del-proyecto-)
+4. [Cómo ejecutarlo](https://github.com/KamVilchis/python-port-scanner#4-c%C3%B3mo-ejecutarlo-)
+5. [Ejemplo de salida](https://github.com/KamVilchis/python-port-scanner#5-ejemplo-de-salida-)
+6. [Nota importante](https://github.com/KamVilchis/python-port-scanner#%EF%B8%8F-nota-importante)
 
 ## 1. Intro 😎
 
@@ -78,3 +78,4 @@ python scanner.py
 Este proyecto fue desarrollado con fines educativos.
 
 Debe utilizarse únicamente en redes y sistemas donde tengas autorización para realizar pruebas.
+
